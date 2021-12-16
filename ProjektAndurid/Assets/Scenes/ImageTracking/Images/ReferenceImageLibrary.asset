@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5438900029218683827
+  m_GuidHigh: 11338665651040755373
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5400577903824950357
+      m_GuidHigh: 15780132177000376448
+    m_SerializedTextureGuid:
+      m_GuidLow: 11737754039291159957
+      m_GuidHigh: 15543211567653785115
+    m_Size: {x: 0.1, y: 0.06706232}
+    m_SpecifySize: 1
+    m_Name: Mull
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5049372177943228085
+      m_GuidHigh: 468089308599550389
+    m_SerializedTextureGuid:
+      m_GuidLow: 7265653592285485109
+      m_GuidHigh: 11263176064410755787
+    m_Size: {x: 0.1, y: 0.065}
+    m_SpecifySize: 1
+    m_Name: MQ2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5536597622831422818
+      m_GuidHigh: 128022863452411566
+    m_SerializedTextureGuid:
+      m_GuidLow: 1302766764902429090
+      m_GuidHigh: 16705376511200125594
+    m_Size: {x: 0.1, y: 0.09559083}
+    m_SpecifySize: 1
+    m_Name: HCSR501
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4978379279022470309
+      m_GuidHigh: 15301823041363927961
+    m_SerializedTextureGuid:
+      m_GuidLow: 14480281147118422407
+      m_GuidHigh: 8649071816557313816
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: WaterLevel
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5326880855561559285
+      m_GuidHigh: 4824487401943419783
+    m_SerializedTextureGuid:
+      m_GuidLow: 1681075354892448893
+      m_GuidHigh: 15610457045971567945
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: HCSR05
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5022598933842475631
+      m_GuidHigh: 14980746514526599340
+    m_SerializedTextureGuid:
+      m_GuidLow: 8229384308152332912
+      m_GuidHigh: 16809666735228243322
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: LightSensor
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4803523683857377392
+      m_GuidHigh: 7975832467517176464
+    m_SerializedTextureGuid:
+      m_GuidLow: 12994118941343179090
+      m_GuidHigh: 4519685639533558506
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: SoundSensor
+    m_Texture: {fileID: 0}
